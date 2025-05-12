@@ -1,29 +1,13 @@
 ## pedroHE000
 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=pedroHE000&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <img align="" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=pedroHE000&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
  <div align="center">
 <img src="https://pedroHE000.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">🧔 21 anos, apaixonado por tecnologia e inovação</div>  
   
-
-- 💻 Programador Fullstack
-Especialista em Java × React × JavaScript
-Banco de dados SQL  
-  
-
-- "Transformando linhas de código em soluções inovadoras"
-
-  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
 
 
 ## My Skill Set  
